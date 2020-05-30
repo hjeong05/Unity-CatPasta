@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 86caf806b77bf58469146c4aa2927dce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baconobj: {fileID: 4883239271768264, guid: 59f23f434ce26064ab64e34d6e4b3930, type: 2}
+  - sliced_tomatoobj: {fileID: 4151062265360292, guid: c79ace4ea51bb364a8cc1a28ae304bad,
+      type: 2}
+  - musselobj: {fileID: 4604822123275040, guid: dc143fc8950f3514d9b1220ef5a31eee,
+      type: 2}
+  - basilobj: {fileID: 4111889814235818, guid: 3f1f0d02a24463243966b943d0d3a8c5, type: 2}
+  - mushroomobj: {fileID: 4604822123275040, guid: dc143fc8950f3514d9b1220ef5a31eee,
+      type: 2}
+  - c_pastaobj: {fileID: 4127939600276864, guid: d81282bad25fa7c42b55900113653ecb,
+      type: 2}
+  - t_pastaobj: {fileID: 4815026784364046, guid: 6d1c41b379ce1ba4aa2f3f368415fa53,
+      type: 2}
+  - o_pastaobj: {fileID: 4002951821702092, guid: 1e7fea8d6c2150144a46b53e03263bbf,
+      type: 2}
+  - shrimpobj: {fileID: 4051562755453858, guid: dc2b572ec64bec0449f008399de9780d,
+      type: 2}
+  - Creampastaobj: {instanceID: 0}
+  - Tomatopastaobj: {instanceID: 0}
+  - Oilpastaobj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

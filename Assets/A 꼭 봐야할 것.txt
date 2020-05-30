@@ -1,0 +1,19 @@
+
+GameScene 이 진짜 완성한 게임 씬입니다. 
+(CatPasta 씬은 아닙니다.)
+
+Script 폴더에 모든 스크립트가 들어가 있습니다. 
+
+
+ FileStream file = File.Create(Application.dataPath + "/SaveFile.dat");  // 컴퓨터에서 저장
+ FileStream file = File.Create(Application.persistentDataPath + "/SaveFile.dat"); // 핸드폰에서 저장
+		
+ FileStream file = File.Open(Application.dataPath + "/SaveFile.dat",FileMode.Open);  //컴퓨터에서 로드
+
+ FileStream file = File.Open(Application.persistentDataPath + "/SaveFile.dat", FileMode.Open);  //핸드폰에서 로드
+
+현재 유니티는 컴퓨터에서 저장하도록 설정해 놓았습니다.
+
+제가 에셋을 정리를 제대로 못해서 
+보기 힘드실 수 있어요ㅠㅠ 
+죄송합니다.
