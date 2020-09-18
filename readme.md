@@ -10,14 +10,21 @@
 
 게임시작화면, 상점 화면, 상점 화면 ( MY 화면 : 내가 산 재료 개수 확인 ) , 게임 화면, 정산 화면
 
-#### main functions
+# Tech/Framework used
+## languages
+- C#
+## Tech
+- Unity
+- Visual Studio
+
+### main functions
 1. 재료 구매, 판매 기능
 2. 요리 기능
 3. 게임 설정 기능 ( bgm, 효과음 조절, 게임 나가기 )
 4. 이동 및 음식 서빙 기능
 5. PlayerPrefs 사용한 게임 저장
 
-#### features
+### features
 - 등장 손님마다 특징이 다릅니다.
 
 ![image](https://user-images.githubusercontent.com/59278116/93563994-eee2c780-f9c3-11ea-9370-262e25d87019.png)
